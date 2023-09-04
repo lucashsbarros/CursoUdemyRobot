@@ -11,6 +11,7 @@ Esse repositório contém testes automatizados através da ferramenta Robot Fram
 	b) caso já tenha instalado uma versão do robot framework utilizar o comando `pip install -U robotframework` para atualizar e `robot --version` para conferir a versão instalada.
 	
  4. Instalando as Libraries
+    
 	a) SeleniumLibrary *(versão 6.1.1)*
 	site: https://github.com/robotframework/SeleniumLibrary/#installation
 	comando instalar/atualizar: `pip install -U robotframework-seleniumlibrary`	
@@ -21,7 +22,7 @@ Esse repositório contém testes automatizados através da ferramenta Robot Fram
 
 	**Observação:** caso queira conferir quais versões estão instaladas digite o comando abaixo: `pip list`
 
- 5. Instalando editor de Código
+ 6. Instalando editor de Código
 
 	a) DRACULA OFFICIAL
 Pesquisar na parte de Plugins da sua IDE (no nosso caso foi o IntelliJ) 
@@ -29,7 +30,7 @@ Pesquisar na parte de Plugins da sua IDE (no nosso caso foi o IntelliJ)
 	b) Robot Framework Language Server 1.11
 Pesquisar na parte de Plugins da sua IDE (no nosso caso foi o IntelliJ) 
 
- 6. Instalação de WebDrivers
+ 7. Instalação de WebDrivers
 	a) CHROME *(versão 116)*
 	Link: 
 	https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win64/chromedriver-win64.zip	
@@ -47,7 +48,7 @@ Pesquisar na parte de Plugins da sua IDE (no nosso caso foi o IntelliJ)
     chromedriver --version
     geckodriver --version
 
- 7. Instalar extensão TRUEPATH (qaworld.ga) no seu navegador
+ 8. Instalar extensão TRUEPATH (qaworld.ga) no seu navegador
 
 	  link: https://chrome.google.com/webstore/detail/truepath/mgjhkhhbkkldiihlajcnlfchfcmhipmn?gclid=CjwKCAjwrranBhAEEiwAzbhNtXfzMkKUuClIwBabo0ibxFEoljG1MDnTvC2dTwbNl9TrYVFL8YagqhoCtC0QAvD_BwE
 
