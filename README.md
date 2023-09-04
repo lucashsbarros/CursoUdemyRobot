@@ -23,16 +23,16 @@ Esse repositório contém testes automatizados através da ferramenta Robot Fram
 	**Observação:** caso queira conferir quais versões estão instaladas digite o comando abaixo: `pip list`
 
  6. Instalando editor de Código
-
-    	a) DRACULA OFFICIAL
-Pesquisar na parte de Plugins da sua IDE (no nosso caso foi o IntelliJ) 
+      	a) DRACULA OFFICIAL
+	Pesquisar na parte de Plugins da sua IDE (no nosso caso foi o IntelliJ) 
 	
 	b) Robot Framework Language Server 1.11
 Pesquisar na parte de Plugins da sua IDE (no nosso caso foi o IntelliJ) 
 
  8. Instalação de WebDrivers
+    
 
-    	a) CHROME *(versão 116)*
+    a) CHROME *(versão 116)*
 	Link: 
 	https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win64/chromedriver-win64.zip	
 	
