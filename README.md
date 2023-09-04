@@ -9,13 +9,13 @@ Esse repositório contém testes automatizados através da ferramenta Robot Fram
 	b) caso já tenha instalado uma versão do robot framework utilizar o comando `pip install -U robotframework` para atualizar e `robot --version` para conferir a versão instalada.
 	
  3. Instalando as Libraries
-a) SeleniumLibrary *(versão 6.1.1)*
-site: https://github.com/robotframework/SeleniumLibrary/#installation
-comando instalar/atualizar: `pip install -U robotframework-seleniumlibrary`	
+	a) SeleniumLibrary *(versão 6.1.1)*
+	site: https://github.com/robotframework/SeleniumLibrary/#installation
+	comando instalar/atualizar: `pip install -U robotframework-seleniumlibrary`	
 
 	b) RequestLibrary *(versão 1.0a4)*
-site: https://github.com/MarketSquare/robotframework-requests#readme
-comando instalar/atualizar: `pip install -U robotframework-requests`
+	site: https://github.com/MarketSquare/robotframework-requests#readme
+	comando instalar/atualizar: `pip install -U robotframework-requests`
 
 	**Observação:** caso queira conferir quais versões estão instaladas digite o comando abaixo: `pip list`
 
