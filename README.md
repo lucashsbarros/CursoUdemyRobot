@@ -7,6 +7,7 @@ Esse repositório contém testes automatizados através da ferramenta Robot Fram
  2. Robot Framework *(versão 6.1.1)*
     
 	a) comando para baixar via CMD `pip install robotframework`
+
 	b) caso já tenha instalado uma versão do robot framework utilizar o comando `pip install -U robotframework` para atualizar e `robot --version` para conferir a versão instalada.
 	
  4. Instalando as Libraries
